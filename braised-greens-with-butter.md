@@ -1,0 +1,22 @@
+# Braised Greens with Butter
+
+* 1 clove garlic, peeled & finely sliced
+* 1 bunch greens, washed (kale, collards, whatever)
+* large knob butter
+* splash sherry vinegar
+
+To turn this into a more substantial meal, add a handful or roasted
+nuts, a handful of cooked lentils or some crumbly cheese.
+
+Heat a few tablespoons olive oil in a large frying pan with a lid.
+
+Add garlic and cook over a medium high heat while you chop the
+greens. Slice the greens crosswise, the finer you slice the quicker
+they’ll cook.
+
+Add greens to the pan with a splash of water. Cover and cook over a
+medium heat for 7 or 8 minutes, stirring every few minutes and adding
+water if it starts to burn.
+
+When the greens are tender, add butter and let it melt. Season with
+salt, pepper and a splash of sherry vinegar or lemon juice.
