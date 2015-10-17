@@ -5,7 +5,7 @@
 - 1 teaspoon ground cinnamon
 - 1/2 teaspoon ground nutmeg
 - 1 1/2 cups packed brown sugar
-- 1 1/2 cups butter
+- 2 cups butter
 - 10 Cortland apples, cored and sliced (or other "tart" apple)
 
 Preheat oven to 350.
