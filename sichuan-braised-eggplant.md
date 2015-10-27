@@ -3,10 +3,10 @@
 * Kosher salt
 * 1 1/2 pounds Chinese or Japanese eggplants (about 3), trimmed, split
   into quarters lengthwise and cut into 3- to 4-inch lengths
-* 2 red Thai bird chilies (or any small hot red chili)
+* 2 red Thai bird chilies (or any small hot red chili) (optional)
 * 3 tablespoons white vinegar or rice wine vinegar
 * 2 tablespoons mirin (or Shaoxing wine or dry sherry)
-* 1 tablespoon sugar
+* 3 tablespoon sugar
 * 2 teaspoons soy sauce
 * 1 tablespoon rice vinegar (or Chinkiang vinegar or not-too-fancy
   balsamic vinegar)
