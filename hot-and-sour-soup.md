@@ -9,7 +9,7 @@
 - 1/2 tsp. sesame oil
 - 1 tsp. ground white pepper
 - 1 1/2 c. white mushrooms
-- 1 tbsp. cornstartch
+- 1 tbsp. cornstarch
 - 1 lb. extra-firm tofu
 - 1/2 c. shredded carrots
 - 1 c. chopped scallions
