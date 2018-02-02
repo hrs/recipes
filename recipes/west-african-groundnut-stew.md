@@ -17,11 +17,16 @@ Serves 6
 * 1 1/2-2 cups chopped okra
 * 1/2 cup natural peanut butter
 
-Saute the onions in the oil for about 10 minutes. Stir in the cayenne
-and garlic and saute for a couple more minutes. Add the cabbage and
-sweet potatoes and saute, covered for a few minutes. Mix in the
-juices, salt, ginger, cilantro, and tomatoes. Cover and simmer for
-about 15 minutes, until the sweet potatoes are tender. Add the okra
-and simmer for 5 minutes more. Stir in the peanut butter, place the
-pan on a heat diffuser, and simmer gently until ready to serve. Add
-more juice or water if the stew is too thick.
+Saute the onions in the oil for about 10 minutes.
+
+Stir in the cayenne and garlic and saute for a couple more minutes.
+
+Add the cabbage and sweet potatoes and saute covered for a few minutes.
+
+Mix in the juices, salt, ginger, cilantro, and tomatoes. Cover and simmer for
+about 15 minutes, until the sweet potatoes are tender.
+
+Add the okra and simmer for 5 minutes more.
+
+Stir in the peanut butter and simmer gently until ready to serve. Add more juice
+or water if the stew is too thick.
