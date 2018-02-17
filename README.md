@@ -7,6 +7,7 @@ here. Git: it's not just for code!
 
 - [Cheese Fondue](./recipes/cheese-fondue.md)
 - [Chipotle, Corn, and Black Bean Stew](./recipes/chipotle-corn-and-black-bean-stew.md)
+- [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md)
 - [Hot and Sour Soup](./recipes/hot-and-sour-soup.md)
 - [Lo Mein](./recipes/lo-mein.md)
 - [Navratan Korma](./recipes/navratan-korma.md)
