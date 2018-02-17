@@ -2,7 +2,7 @@
 
 - 1 c. wheat bran
 - 1 c. oat bran
-- 1 c. whole Wheat flour
+- 1 c. whole wheat flour
 - 2 tsp. baking powder
 - 1 tsp. baking soda
 - 1/2 tsp. cinnamon

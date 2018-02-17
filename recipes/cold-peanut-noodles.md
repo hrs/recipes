@@ -4,7 +4,7 @@
 - large carrot
 - cucumber
 
-## The sauce
+### The sauce
 
 - 1/2 c. tahini, peanut butter, or a combination
 - 2 tbsp. sugar

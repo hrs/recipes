@@ -3,7 +3,7 @@
 This is the recipe for the vegetable samosas from Rafiki's Deli at Lancaster,
 PA's Central Market, courtesy of an old copy of the Lancaster newspaper.
 
-## For the filling:
+### For the filling:
 
 - 1 tbsp. vegetable oil
 - 1/2 tsp. cumin/mustard/sesame seed mixture
@@ -17,14 +17,14 @@ PA's Central Market, courtesy of an old copy of the Lancaster newspaper.
 - 1/4 c. frozen peas
 - 1/4 c. cooked lentils
 
-## For the dough:
+### For the dough:
 
 - 2 c. white flour
 - 2 1/2 tbsp. vegetable oil
 - 1 1/2 tbsp. rice flour
 - 1/2 tsp. salt
 
-## Instructions
+### Instructions
 
 Mix dough ingredients in a bowl and add water gradually (about 1/4 c.) until it
 holds together. Knead well, roll into a ball, cover with a moist cloth, and set
@@ -37,7 +37,7 @@ Add lemon juice, cumin/coriander, salt, and pepper, and saute a few minutes.
 
 Add potatoes, peas, and lentils. Mix and saute until just heated through.
 
-## Assembly
+### Assembly
 
 Roll dough into 6" to 8" circles. Cut circles in half.
 

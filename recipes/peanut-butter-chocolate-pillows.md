@@ -1,6 +1,6 @@
 # Peanut Butter Chocolate Pillows
 
-makes 2 dozen cookies
+Makes 2 dozen cookies.
 
 ### Chocolate dough:
 
