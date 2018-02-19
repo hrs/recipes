@@ -32,6 +32,7 @@ here. Git: it's not just for code!
 - [Roasted Potatoes](./recipes/roasted-potatoes.md) :seedling:
 - [Samosas](./recipes/samosas.md) :seedling:
 - [Smoked Paprika Aioli](./recipes/smoked-paprika-aioli.md)
+- [Stir-fry Sauces](./recipes/stir-fry-sauces.md)
 - [Vanilla Bourbon Sauce](./recipes/vanilla-bourbon-sauce.md)
 
 ### Desserts & Baked Goods
