@@ -14,6 +14,7 @@ here. Git: it's not just for code!
 - [Lo Mein](./recipes/lo-mein.md)
 - [Navratan Korma](./recipes/navratan-korma.md) :seedling:
 - [Pad Thai](./recipes/pad-thai.md) :seedling:
+- [Pancakes](./recipes/pancakes.md)
 - [Pasta Fresca](./recipes/pasta-fresca.md)
 - [Peas and Mushrooms](./recipes/peas-and-mushrooms.md)
 - [Pineapple Peanut Stew](./recipes/pineapple-peanut-stew.md) :seedling:
