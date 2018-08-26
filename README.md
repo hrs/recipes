@@ -7,6 +7,7 @@ here. Git: it's not just for code!
 
 ### Main Dishes
 
+- [Baked Macaroni & Cheese](./recipes/mac-and-cheese.md)
 - [Cheese Fondue](./recipes/cheese-fondue.md)
 - [Chipotle, Corn, and Black Bean Stew](./recipes/chipotle-corn-and-black-bean-stew.md) :seedling:
 - [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md) :seedling:
