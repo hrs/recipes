@@ -23,8 +23,8 @@
 Combine salt with 2 quarts water in a medium bowl. Add eggplant, skin-side up,
 and set aside to soak for 10-20 minutes.
 
-Combine chilis, vinegar, sugar, and soy sauce. Add corn starch, stirring until
-dissolved.
+Combine chilis, sugar, vinegar, mirin, and soy sauce. Add corn starch, stirring
+until dissolved.
 
 Drain eggplant and pat dry with paper towels.
 
