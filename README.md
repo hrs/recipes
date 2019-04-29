@@ -24,6 +24,7 @@ here. Git: it's not just for code!
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md) :seedling:
 - [Vegetable Risotto](./recipes/vegetable-risotto.md)
 - [Veggie Chili](./recipes/veggie-chili.md) :seedling:
+- [Veggie Maqluba](./recipes/maqluba.md) :seedling:
 - [West African Groundnut Stew](./recipes/west-african-groundnut-stew.md) :seedling:
 - [Worst Soup in the World](./recipes/worst-soup-in-the-world.md) :seedling:
 
