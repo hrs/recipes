@@ -42,6 +42,7 @@ here. Git: it's not just for code!
 
 - [Apple Cider Doughnuts](./recipes/apple-cider-doughnuts.md)
 - [Apple Crisp](./recipes/apple-crisp.md)
+- [Apple Sauce](./recipes/apple-sauce.md)
 - [Banana Bread](./recipes/banana-bread.md) :seedling:
 - [Bran Muffins](./recipes/bran-muffins.md)
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md) :seedling:
