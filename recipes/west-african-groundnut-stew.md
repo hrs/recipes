@@ -1,21 +1,19 @@
 # West African Groundnut Stew
 
-Serves 6
-
-* 2 cups chopped onions
-* 2 tablespoons peanut or vegetable oil
-* 1/2 teaspoon cayenne or other ground dried chiles
-* 1 teaspoon pressed garlic cloves
-* 2 cups chopped cabbage
-* 3 cups cubed sweet potatoes (1-inch cubes)
-* 3 cups tomato juice
-* 1 cup apple or apricot juice
-* 1 teaspoon salt
-* 1 teaspoon grated peeled fresh ginger root
-* 1 tablespoon chopped fresh cilantro (optional)
-* 2 chopped tomatoes
-* 1 1/2-2 cups chopped okra
-* 1/2 cup natural peanut butter
+- 2 cups chopped onions
+- 2 tablespoons peanut or vegetable oil
+- 1/2 teaspoon cayenne or other ground dried chiles
+- 1 teaspoon pressed garlic cloves
+- 2 cups chopped cabbage
+- 3 cups cubed sweet potatoes (1-inch cubes)
+- 3 cups tomato juice
+- 1 cup apple or apricot juice
+- 1 teaspoon salt
+- 1 teaspoon grated peeled fresh ginger root
+- 1 tablespoon chopped fresh cilantro (optional)
+- 2 chopped tomatoes
+- 1 1/2-2 cups chopped okra
+- 1/2 cup natural peanut butter
 
 Saute the onions in the oil for about 10 minutes.
 

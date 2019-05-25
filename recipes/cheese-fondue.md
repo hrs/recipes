@@ -1,47 +1,44 @@
 # Traditional Cheese Fondue
 
-* 1/2 lb grated Gruyere cheese (rind removed)
-* 1/2 lb grated Emmentaler cheese (rind removed)
-* 1 clove garlic
-* 1 cup dry white wine
-* 1 tablespoon fresh lemon juice
-* 3 1/2 teaspoons cornstarch
-* 1 tablespoon kirsch (optional)
-* pepper and nutmeg to taste
+- 1/2 lb grated Gruyere cheese (rind removed)
+- 1/2 lb grated Emmentaler cheese (rind removed)
+- 1 clove garlic
+- 1 cup dry white wine
+- 1 tablespoon fresh lemon juice
+- 3 1/2 teaspoons cornstarch
+- 1 tablespoon kirsch (optional)
+- pepper and nutmeg to taste
 
-Rub the inside of a medium saucepan with the peeled garlic
-clove. Throw away the garlic. Add the wine and lemon juice and bring
-to a simmer over medium heat.
+Rub the inside of a medium saucepan with the peeled garlic clove. Throw away the
+garlic. Add the wine and lemon juice and bring to a simmer over medium heat.
 
-In a medium bowl, mix the Gruyere and Emmentaler cheese with the
-cornstarch and toss. Stir the cheese mixture into the wine one small
-handful at a time. Make sure each handful is completely melted before
-adding another. The fondue can bubble a bit, but don't let it
-boil. Season with the nutmeg and pepper. Stir in kirsch (optional).
+In a medium bowl, mix the Gruyere and Emmentaler cheese with the cornstarch and
+toss. Stir the cheese mixture into the wine one small handful at a time. Make
+sure each handful is completely melted before adding another. The fondue can
+bubble a bit, but don't let it boil. Season with the nutmeg and pepper. Stir in
+kirsch (optional).
 
-Transfer to a cheese fondue pot and keep warm with burner. Serve right
-away.
+Transfer to a cheese fondue pot and keep warm with burner. Serve right away.
 
 ## What to Dip
 
-* Crusty cubes of French or Italian bread (leave a piece of crust on
+- Crusty cubes of French or Italian bread (leave a piece of crust on
   each cube)
-* Rye or sourdough bread cubes
-* Potatoes (roasted or boiled, baby potatoes work best)
-* Asparagus spears
-* Broccoli florets (boil for two minutes)
-* Cauliflower florets (boil for two minutes)
-* Peppers
-* Granny smith apple slices
+- Rye or sourdough bread cubes
+- Potatoes (roasted or boiled, baby potatoes work best)
+- Asparagus spears
+- Broccoli florets (boil for two minutes)
+- Cauliflower florets (boil for two minutes)
+- Peppers
+- Granny smith apple slices
 
-Don’t use a cheap cooking wine for fondue (or for anything else for
-that matter). Instead use a decent Sauvignon Blanc, California
-Riesling, Chenin Blanc, or Swiss Fendant.
+Don’t use a cheap cooking wine for fondue (or for anything else for that
+matter). Instead use a decent Sauvignon Blanc, California Riesling, Chenin
+Blanc, or Swiss Fendant.
 
-As you add the handful of cheeses to the simmering wine, stir in a
-zig-zag or figure-eight motion to help break up the cheese and blend
-ingredients.
+As you add the handful of cheeses to the simmering wine, stir in a zig-zag or
+figure-eight motion to help break up the cheese and blend ingredients.
 
-The hard crust left at the bottom of the pot is called “la courte” or
-“la religuese”, and is considered a delicacy. Pry it out and serve
-pieces of it to your guests.
+The hard crust left at the bottom of the pot is called “la courte” or “la
+religuese”, and is considered a delicacy. Pry it out and serve pieces of it to
+your guests.

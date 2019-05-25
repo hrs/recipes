@@ -1,9 +1,9 @@
 # Braised Greens with Butter
 
-* 1 clove garlic, peeled & finely sliced
-* 1 bunch greens, washed (kale, collards, whatever)
-* large knob butter
-* splash sherry vinegar
+- 1 clove garlic, peeled & finely sliced
+- 1 bunch greens, washed (kale, collards, whatever)
+- large knob butter
+- splash sherry vinegar
 
 To turn this into a more substantial meal, add a handful or roasted
 nuts, a handful of cooked lentils or some crumbly cheese.

@@ -1,17 +1,17 @@
 # Thai Green Coconut Curry
 
-* 1 can unsweetened coconut milk
-* 4 ounces green beans
-* 2 cloves garlic
-* 1 lime
-* 1 yellow onion
-* 1 sweet potato (optional)
-* 1 bunch cilantro (optional)
-* 3 tablespoons cashews (optional)
-* 2 tablespoons green curry paste
-* 1-inch piece ginger
-* 1 can of bamboo shoots
-* 1 carton of mushrooms
+- 1 can unsweetened coconut milk
+- 4 ounces green beans
+- 2 cloves garlic
+- 1 lime
+- 1 yellow onion
+- 1 sweet potato (optional)
+- 1 bunch cilantro (optional)
+- 3 tablespoons cashews (optional)
+- 2 tablespoons green curry paste
+- 1-inch piece ginger
+- 1 can of bamboo shoots
+- 1 carton of mushrooms
 
 Wash and dry the fresh produce. Peel and mince the garlic and
 ginger. Peel and thinly slice the onion. Peel and medium dice the

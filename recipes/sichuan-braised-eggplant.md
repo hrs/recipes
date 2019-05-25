@@ -1,24 +1,30 @@
 # Sichuan-style Braised Eggplant
 
-* 1/2 c. salt
-* 3 Chinese or Japanese eggplants, trimmed, split into quarters lengthwise, and
+The eggplants:
+
+- 1/2 c. salt
+- 3 Chinese or Japanese eggplants, trimmed, split into quarters lengthwise, and
   cut into 3- to 4-inch lengths
 
-* 2 small red chilis, finely minced
-* 4 tbsp. rice vinegar
-* 2 tbsp. mirin
-* 3 tbsp. sugar
-* 2 tsp. soy sauce
-* 1 tsp. cornstarch
+The sauce:
 
-* 3 tbsp. vegetable oil
-* 4 tsp. minced ginger
-* 4 medium cloves minced garlic
-* 4 scallions, sliced thinly
-* 2 tbsp. broad bean paste
-* Chopped cilantro leaves, for garnish (optional)
-* 1 bag of spinach
-* 1 bag of kale (optional)
+- 2 small red chilis, finely minced
+- 4 tbsp. rice vinegar
+- 2 tbsp. mirin
+- 3 tbsp. sugar
+- 2 tsp. soy sauce
+- 1 tsp. cornstarch
+
+The rest:
+
+- 3 tbsp. vegetable oil
+- 4 tsp. minced ginger
+- 4 medium cloves minced garlic
+- 4 scallions, sliced thinly
+- 2 tbsp. broad bean paste
+- Chopped cilantro leaves, for garnish (optional)
+- 1 bag of spinach
+- 1 bag of kale (optional)
 
 Combine salt with 2 quarts water in a medium bowl. Add eggplant, skin-side up,
 and set aside to soak for 10-20 minutes.

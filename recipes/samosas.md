@@ -41,8 +41,8 @@ Add potatoes, peas, and lentils. Mix and saute until just heated through.
 
 Roll dough into 6" to 8" circles. Cut circles in half.
 
-Fold half-circles into thirds and pinch into a cone. Fill the cones 2/3 full
-of filling, then moisten the lip of the cone with water and pinch to seal.
-Squeeze to remove air pockets. Flute the sealed edge, if possible.
+Fold half-circles into thirds and pinch into a cone. Fill the cones 2/3 full of
+filling, then moisten the lip of the cone with water and pinch to seal. Squeeze
+to remove air pockets. Flute the sealed edge, if possible.
 
 Cover with a moist cloth until ready, then fry in hot oil until golden brown.

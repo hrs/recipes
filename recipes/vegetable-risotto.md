@@ -1,14 +1,14 @@
 # Vegetable Risotto
 
-* 1 1/3 c. arborio rice
-* 1 large onion, chopped
-* 1 clove of garlic
-* 1 red pepper
-* 1 green pepper
-* mushrooms
-* peas
-* parmesan cheese
-* 1 1/2 pints vegetable stock
+- 1 1/3 c. arborio rice
+- 1 large onion, chopped
+- 1 clove of garlic
+- 1 red pepper
+- 1 green pepper
+- mushrooms
+- peas
+- parmesan cheese
+- 1 1/2 pints vegetable stock
 
 Chop up the onion, and saute it with the garlic, add in chopped
 peppers and mushrooms and saute for a couple of minutes. Add in the

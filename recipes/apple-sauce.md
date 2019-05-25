@@ -8,4 +8,4 @@
 Chop apples finely. Combine all ingredients in a saucepan and cook over medium
 heat for 15-20 minutes, until apples are soft.
 
-Blend sauce if desired to smooth it out
+Blend sauce if desired to smooth it out.
