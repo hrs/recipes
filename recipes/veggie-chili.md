@@ -1,13 +1,17 @@
 # Veggie Chili
 
-- an onion
-- some garlic
-- bag of veggie faux-meat (the Morningstar Farms "Grillers Crumbles" are pretty good)
-- big can of chopped tomatoes
-- big can of black beans
+- white onion
+- green bell pepper
+- 3 cloves garlic
+- can of petite diced tomatoes
+- can of black beans
+- can of kidney beans
+- 2 c. [vegetable broth](./vegetable-broth.md)
 - chili powder to taste
+- cumin to taste
 - salt and pepper to taste
 - cayenne pepper to taste
 
-Chop the onion and garlic, and fry 'em up in some olive oil. Once the onion's
-transparent, add the other ingredients, and cook until they look about right.
+Chop the onion, pepper, and garlic, and fry 'em up in some olive oil. Once the
+onion's transparent, add the other ingredients, and simmer until they reach the
+desired consistency.
