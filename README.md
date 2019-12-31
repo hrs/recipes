@@ -38,6 +38,7 @@ here. Git: it's not just for code!
 - [Smoked Paprika Aioli](./recipes/smoked-paprika-aioli.md)
 - [Stir-fry Sauces](./recipes/stir-fry-sauces.md) :seedling:
 - [Vanilla Bourbon Sauce](./recipes/vanilla-bourbon-sauce.md)
+- [Vegetable Broth](./recipes/vegetable-broth.md) :seedling:
 
 ### Desserts & Baked Goods
 

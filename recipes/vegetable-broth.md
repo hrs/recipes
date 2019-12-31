@@ -1,0 +1,18 @@
+# Vegetable Broth
+
+- Big tub of frozen vegetable scraps (half a gallon or so)
+- Couple bay leaves
+- Pinch of thyme
+- Pinch of rosemary
+
+Here's the deal: keep a big bin of frozen vegetable scraps in your freezer.
+Every time you peel some carrots or chop an onion, just add the scraps to the
+bin.
+
+Once you've got a critical mass of frozen vegetable scraps, simmer them in your
+biggest stockpot with some herbs for a couple of hours, strain the solids out
+with a colander, and hey presto, you've got vegetable broth!
+
+Certain vegetables *shouldn't* be saved for broth. For example, eggplant scraps
+turn your broth purple and add a bitter taste. Jalapeño seeds would be a
+terrible addition for obvious reasons. Think it through.

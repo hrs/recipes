@@ -2,7 +2,7 @@
 
 - 1/2 oz. dried wood ear mushrooms (or dried shiitakes)
 - 8 leaves napa cabbage
-- 4 c. vegetable broth
+- 4 c. [vegetable broth](./vegetable-broth.md)
 - 1/4 c. soy sauce
 - 1/4 c. rice vinegar
 - 3 tsp. Asian hot chile oil
