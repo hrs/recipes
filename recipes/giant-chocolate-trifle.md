@@ -3,7 +3,7 @@
 Our family's traditional New Year's Eve sugar bomb. Prepare your body.
 
 - 1 chocolate box cake with required ingredients
-- 2 boxes of chocolate pudding
+- 1 quart of chocolate pudding (usually 2 small boxes of pudding mix)
 - 2 tubs of Cool Whip
 - 9 Heath bars (or an equivalent volume of chocolate-covered toffee bits)
 
