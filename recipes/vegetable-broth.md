@@ -16,3 +16,7 @@ with a colander, and hey presto, you've got vegetable broth!
 Certain vegetables *shouldn't* be saved for broth. For example, eggplant scraps
 turn your broth purple and add a bitter taste. Jalapeño seeds would be a
 terrible addition for obvious reasons. Think it through.
+
+---
+
+![vegetable broth](../images/vegetable-broth.jpg)
