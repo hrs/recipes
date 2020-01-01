@@ -21,3 +21,7 @@ Whip, then Heath bar chips.
 
 Feel free to serve immediately after assembly, but I think it's a bit better
 after marinating in the fridge overnight.
+
+---
+
+![giant chocolate trifle](../images/giant-chocolate-trifle.jpg)
