@@ -41,4 +41,8 @@ tight-fitting lid and simmer for 30 minutes.
 Let dish sit covered for 10 minutes. Quickly invert rice dish onto a large round
 platter; do not remove pot for 2-3 minutes. Remove pot and circle of parchment.
 
-Serve with plain yogurt, hot sauce and chopped fresh cilantro, if desired.
+Serve with plain yogurt, hot sauce, and chopped fresh cilantro, if desired.
+
+---
+
+![maqluba](../images/maqluba.jpg)

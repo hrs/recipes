@@ -13,6 +13,7 @@ here. Git: it's not just for code!
 - [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md) :seedling:
 - [Hot and Sour Soup](./recipes/hot-and-sour-soup.md) :seedling:
 - [Lo Mein](./recipes/lo-mein.md)
+- [Maqluba](./recipes/maqluba.md) :seedling:
 - [Navratan Korma](./recipes/navratan-korma.md) :seedling:
 - [Pad Thai](./recipes/pad-thai.md) :seedling:
 - [Pancakes](./recipes/pancakes.md)
@@ -25,7 +26,6 @@ here. Git: it's not just for code!
 - [Vegetable Risotto](./recipes/vegetable-risotto.md)
 - [Veggie Chili](./recipes/veggie-chili.md) :seedling:
 - [Veggie Lasagna](./recipes/lasagna.md)
-- [Veggie Maqluba](./recipes/maqluba.md) :seedling:
 - [West African Groundnut Stew](./recipes/west-african-groundnut-stew.md) :seedling:
 - [Worst Soup in the World](./recipes/worst-soup-in-the-world.md) :seedling:
 
