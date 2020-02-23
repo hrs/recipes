@@ -33,6 +33,7 @@ here. Git: it's not just for code!
 ### Sides & Sauces
 
 - [Braised Greens with Butter](./recipes/braised-greens-with-butter.md)
+- [Crispy Fried Tofu](./recipes/crispy-fried-tofu.md) :seedling:
 - [Peanut Dipping Sauce](./recipes/peanut-sauce.md) :seedling:
 - [Roasted Potatoes](./recipes/roasted-potatoes.md) :seedling:
 - [Samosas](./recipes/samosas.md) :seedling:
