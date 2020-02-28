@@ -13,6 +13,7 @@ here. Git: it's not just for code!
 - [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md) :seedling:
 - [Fried Rice](./recipes/fried-rice.md)
 - [Hot and Sour Soup](./recipes/hot-and-sour-soup.md) :seedling:
+- [Lentil Soup](./recipes/lentil-soup.md) :seedling:
 - [Lo Mein](./recipes/lo-mein.md)
 - [Maqluba](./recipes/maqluba.md) :seedling:
 - [Navratan Korma](./recipes/navratan-korma.md) :seedling:
