@@ -12,8 +12,8 @@ Makes about a dozen pancakes.
 - 1 c. flour
 
 Mix everything in a mixing bowl and beat it all together. Add any extras---I
-like about 3/4 c. of sliced almonds.
-
+like about 3/4 c. of sliced almonds, but berries, pecans, or chocolate chips
+would be great, too!
 
 Spoon onto a griddle, cook until bubbly, then flip and cook for a couple more
 minutes. Eat.
