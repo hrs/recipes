@@ -22,6 +22,7 @@ here. Git: it's not just for code!
 - [Pasta Fresca](./recipes/pasta-fresca.md)
 - [Peas and Mushrooms](./recipes/peas-and-mushrooms.md)
 - [Pineapple Peanut Stew](./recipes/pineapple-peanut-stew.md) :seedling:
+- [Pizza](./recipes/pizza.md)
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md) :seedling:
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md) :seedling:
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md) :seedling:
