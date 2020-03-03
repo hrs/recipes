@@ -1,6 +1,6 @@
 # Pizza
 
-- 1 1/2 tsp. active dry yeast
+- 1 tsp. active dry yeast
 - 3/4 c. warm water
 - 2 c. bread flour (*not* all-purpose flour)
 - 1 1/2 tsp. salt
