@@ -52,6 +52,7 @@ here. Git: it's not just for code!
 - [Apple Sauce](./recipes/apple-sauce.md) :seedling:
 - [Banana Bread](./recipes/banana-bread.md) :seedling:
 - [Bran Muffins](./recipes/bran-muffins.md)
+- [Challah](./recipes/challah.md)
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md)
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md) :seedling:
 - [Whoopie Pies](./recipes/whoopie-pies.md)

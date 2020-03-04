@@ -1,0 +1,35 @@
+# Challah
+
+Makes two loaves.
+
+- 1 tsp. active dry yeast
+- 2½ c. warm water
+- ½ c. honey
+- 4 tbsp. vegetable oil
+- 3 eggs
+- 1 tbsp. salt
+- 8 c. bread flour
+- 2 tbsp. sesame seeds
+
+Combine yeast and water in a large mixing bowl. Stir in oil, salt, honey, and 2
+eggs. Add flour, one cup at a time, and knead until smooth.
+
+Cover with a damp cloth and let rise for an hour or two.
+
+Preheat oven to 375°.
+
+Split dough in half and knead each half for 5 minutes. Split each half into
+three parts, roll them into long rolls, and braid together into two loaves.
+Prepare two baking sheets with parchment paper and place loaves on sheets.
+
+Mix up the last egg with a tablespoon or so of water to make an egg wash. Brush
+the egg wash onto the loaves, getting into all the nooks and crannies. Sprinkle
+each loaf with sesame seeds.
+
+Bake for 40 minutes.
+
+---
+
+![challah](../images/challah.jpg)
+
+These fellas later turned into *terrific* French toast.
