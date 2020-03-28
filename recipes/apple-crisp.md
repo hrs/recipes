@@ -3,12 +3,12 @@
 - 2 c. all-purpose flour
 - 2 c. rolled oats
 - 1 tsp. ground cinnamon
-- 1/2 tsp. ground nutmeg
-- 1 1/2 c. packed brown sugar
+- ½ tsp. ground nutmeg
+- 1½ c. packed brown sugar
 - 2 c. butter
 - 10 Cortland apples, cored and sliced (or other "tart" apple)
 
-Preheat oven to 350.
+Preheat oven to 350°F.
 
 In a large bowl, combine the flour, oatmeal, cinnamon, nutmeg and brown sugar.
 Cut butter into mixture until crumbly.

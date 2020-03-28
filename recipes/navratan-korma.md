@@ -4,22 +4,22 @@
 - 3 tbsp. canola oil
 - 3 cloves garlic, peeled and minced
 - 1 tsp. fresh grated ginger
-- 1/4 tsp. cardamom
-- 1/2 tsp. cinnamon
+- ¼ tsp. cardamom
+- ½ tsp. cinnamon
 - 1 tsp. cumin
-- 1/2 tsp. turmeric
-- 1/4 tsp. cayenne pepper (optional)
+- ½ tsp. turmeric
+- ¼ tsp. cayenne pepper (optional)
 - 2 tbsp. tomato paste
-- 1 1/2 c. vegetable stock
+- 1½ c. vegetable stock
 - 3 c. mixed frozen veggies (peas, carrots, corn, green beans, etc)
-- 1 1/2 c. cauliflower florets
-- 3/4 c. cashews
-- 1/2 c. golden raisins
-- 1 1/2 c. extra-firm tofu, cubed
-- 1/3 c. cream or 1 can coconut milk
-- 1/2 tsp. garam masala
+- 1½ c. cauliflower florets
+- ¾ c. cashews
+- ½ c. golden raisins
+- 1½ c. extra-firm tofu, cubed
+- ⅓ c. cream or 1 can coconut milk
+- ½ tsp. garam masala
 - salt and pepper to taste
-- 1/3 c. chopped fresh cilantro
+- ⅓ c. chopped fresh cilantro
 
 Note: feel free to add diced peppers, zucchini, eggplant, etc to the korma. If
 you don’t have raisins, feel free to use pineapple tidbits. They are equally

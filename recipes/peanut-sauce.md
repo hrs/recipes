@@ -5,7 +5,7 @@
 - 2 tbsp. minced ginger
 - 2 tbsp. soy sauce
 - 1 tsp. ground coriander
-- 2/3 c. smooth peanut butter
+- ⅔ c. smooth peanut butter
 - 2 tbsp. real maple syrup
 - 3 tbsp. rice vinegar
 - 2 tsp. Asian chile sauce

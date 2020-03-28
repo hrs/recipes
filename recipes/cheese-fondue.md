@@ -1,12 +1,12 @@
 # Traditional Cheese Fondue
 
-- 1/2 lb grated Gruyere cheese (rind removed)
-- 1/2 lb grated Emmentaler cheese (rind removed)
+- ½ lb grated Gruyere cheese (rind removed)
+- ½ lb grated Emmentaler cheese (rind removed)
 - 1 clove garlic
-- 1 cup dry white wine
-- 1 tablespoon fresh lemon juice
-- 3 1/2 teaspoons cornstarch
-- 1 tablespoon kirsch (optional)
+- 1 c. dry white wine
+- 1 tbsp. fresh lemon juice
+- 1 tbsp. cornstarch
+- 1 tbsp. kirsch (optional)
 - pepper and nutmeg to taste
 
 Rub the inside of a medium saucepan with the peeled garlic clove. Throw away the

@@ -6,14 +6,14 @@
 
 ### The sauce
 
-- 1/2 c. tahini, peanut butter, or a combination
+- ½ c. tahini, peanut butter, or a combination
 - 2 tbsp. sugar
 - 1 tbsp. rice vinegar
 - 3 tbsp. soy sauce
 - 2 tbsp. sesame oil
-- 1/2 tsp. black pepper
-- 1/2 tsp. sesame seeds
-- 1/2 c. chopped scallions
+- ½ tsp. black pepper
+- ½ tsp. sesame seeds
+- ½ c. chopped scallions
 - salt to taste
 - sriracha to taste
 

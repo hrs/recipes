@@ -1,18 +1,18 @@
 # Maqluba
 
-- 1 2/3 c. rice, rinsed
+- 1⅔ c. rice, rinsed
 - 1 tsp. turmeric
 - 1 tsp. cinnamon
 - 1 tsp. allspice
 - 1 tsp. cumin
 - 1 tsp. coriander
 - salt and pepper
-- 1/2 tsp. cloves
-- 2 medium eggplants, cut into 1/4-inch-thick slices
+- ½ tsp. cloves
+- 2 medium eggplants, cut into ¼"-thick slices
 - 5 tbsp. olive oil
 - 1 medium cauliflower, chopped into florets
 - 1 tbsp. melted butter (or more oil, to make it vegan)
-- 3 tomatoes, cut into 1/4-inch-thick slices
+- 3 tomatoes, cut into ¼"-thick slices
 - 4 c. vegetable stock
 - 2 cloves garlic, peeled and roughly chopped
 
@@ -20,12 +20,12 @@ Preheat oven to 400°F. Cover rice with water, stir in 1 tsp. salt, and let soak
 
 Combine spices in a small bowl.
 
-Toss eggplant slices with 3 tbsp oil, 1/3 of the spice mixture, and salt and
+Toss eggplant slices with 3 tbsp oil, ⅓ of the spice mixture, and salt and
 pepper to taste. Lay eggplant on two baking sheets and roast until eggplant is
 browned and tender, turning slices once, about 20 minutes.
 
-Toss cauliflower with 2 tbsp oil, 1/3 of the spice mixture, and salt and pepper
-to taste. Lay cauliflower on baking sheet and roast, stirring once, until
+Toss cauliflower with 2 tbsp oil, ⅓ of the spice mixture, and salt and pepper to
+taste. Lay cauliflower on baking sheet and roast, stirring once, until
 cauliflower is browned and tender, about 20 minutes.
 
 Assemble: line the bottom of a pot with a circle of parchment paper and brush

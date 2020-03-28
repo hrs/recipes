@@ -6,15 +6,15 @@
 - 2 c. sliced mushrooms
 - 1 red bell pepper, julienned
 - 1 carrot, peeled and julienned
-- 1/2 c. snow/snap peas
+- ½ c. snow/snap peas
 - 3 c. fresh baby spinach
 
 ## For the sauce
 
-- 1/4 c. soy sauce
+- ¼ c. soy sauce
 - 3 tsp. granulated sugar
 - 2 tsp. sesame oil
-- 1/2 tsp. ground ginger
+- ½ tsp. ground ginger
 - 1 tsp. sriracha
 
 Whisk together sauce ingredients and set aside.

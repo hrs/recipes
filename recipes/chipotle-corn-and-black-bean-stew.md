@@ -4,7 +4,7 @@
 - 1 large onion, quartered and sliced
 - 3 cloves garlic
 - 2 tsp. cumin
-- 1/2 tsp. salt
+- ½ tsp. salt
 - black pepper to taste
 - 2 chipotle peppers, canned, drained and chopped
 - 1 28-oz can of crushed tomatoes

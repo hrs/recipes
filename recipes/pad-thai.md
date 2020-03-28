@@ -8,7 +8,7 @@
 - 6 tbsps sugar
 - 2 tbsps tomato paste
 - 2 tbsps sriracha
-- 1/4 c. rice vinegar
+- ¼ c. rice vinegar
 - 3 tbsps lime juice (a couple of limes)
 
 ### The rest of it
@@ -22,7 +22,7 @@
 - 2 c. bean sprouts
 - 8 scallions, chopped
 - 1 tbsp red pepper flakes
-- 1/2 c. chopped peanuts
+- ½ c. chopped peanuts
 - some chopped cilantro and lime wedges
 
 Cook the rice noodles and put aside.

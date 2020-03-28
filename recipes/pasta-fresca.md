@@ -6,7 +6,7 @@
 - 1 tbsp. extra-virgin olive oil
 - salt and ground pepper to taste
 - 1 lb. bow-tie or fusilli pasta
-- 1/2 lb. fresh mozzarella cheese, cut into 1/2-in. cubes
+- ½ lb. fresh mozzarella cheese, cut into ½-in. cubes
 - grated Parmesan or Pecorino cheese to taste
 
 Set aside 1 c. of the chopped tomatoes and 2 of the basil leaves. In a blender

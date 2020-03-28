@@ -19,5 +19,5 @@ minutes, stirring often. Add canned tomatoes, continuing to cook and stir.
 
 Add remaining ingredients. Stir, turn down heat, and simmer 20 minutes.
 
-Remove bay leaves. Take a stick blender and roughly puree about 1/3 of the pot
+Remove bay leaves. Take a stick blender and roughly puree about ⅓ of the pot
 just to make it a bit smoother but leaving lots of chunks.

@@ -8,23 +8,23 @@ A few different ones.
 - 4 tbsp. soy sauce
 - 1 tbsp. rice vinegar
 - 1 tbsp. brown sugar
-- 1/2 c. vegetable stock
-- 1 1/2 tbsp. cornstarch
+- ½ c. vegetable stock
+- 1½ tbsp. cornstarch
 
 ### Orange-ginger sauce
 
 - 1" ginger, minced
 - 3 tbsp. soy sauce
 - 1 tbsp. rice vinegar
-- 1/2 c. orange juice (or, the juice of one orange)
-- 1 1/2 tbsp. cornstarch
+- ½ c. orange juice (or, the juice of one orange)
+- 1½ tbsp. cornstarch
 
 ### Black pepper sauce
 
 - 3 tbsp. soy sauce
 - 2 tsp. rice vinegar
 - 1 tsp. brown sugar
-- 1/2 c. vegetable stock
+- ½ c. vegetable stock
 - 1 tsp. black pepper
 - 1 tbsp. cornstarch
 
@@ -34,5 +34,5 @@ A few different ones.
 - 2 tbsp. ketchup
 - 1 tbsp. rice vinegar
 - 1 tbsp. brown sugar
-- 2/3 c. vegetable stock
-- 1 1/2 tbsp. cornstarch
+- ⅔ c. vegetable stock
+- 1½ tbsp. cornstarch

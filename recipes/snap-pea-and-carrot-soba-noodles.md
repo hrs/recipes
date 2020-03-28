@@ -3,22 +3,22 @@
 ### Soba
 
 - 6 oz. soba noodles
-- 2 cups frozen edamame
-- 10 oz. (about 3 cups) sugar snap peas or snow peas
+- 2 c. frozen edamame
+- 10 oz. (about 3 c.) sugar snap peas or snow peas
 - 6 medium-sized carrots, peeled
-- 1/2 cup chopped fresh cilantro (about 2 handfuls)
-- 1/4 cup sesame seeds
+- ½ c. chopped fresh cilantro (about 2 handfuls)
+- ¼ c. sesame seeds
 
 ### Ginger-sesame sauce
 
-- 1/4 cup tamari or soy sauce
-- 2 tablespoons quality peanut oil or extra-virgin olive oil
+- ¼ c. tamari or soy sauce
+- 2 tbsp. quality peanut oil or extra-virgin olive oil
 - 1 small lime, juiced
-- 1 tablespoon toasted sesame oil
-- 1 tablespoon honey or agave nectar
-- 1 tablespoon white miso (optional)
-- 2 teaspoons freshly grated ginger
-- 1 teaspoon chili garlic sauce or sriracha
+- 1 tbsp. toasted sesame oil
+- 1 tbsp. honey or agave nectar
+- 1 tbsp. white miso (optional)
+- 2 tsp. freshly grated ginger
+- 1 tsp. chili garlic sauce or sriracha
 
 To prepare the vegetables: Slice the peas in half lengthwise (or just roughly
 chop them). Slice the carrots into long, thin strips with a julienne peeler, or

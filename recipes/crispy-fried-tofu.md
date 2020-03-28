@@ -1,7 +1,7 @@
 # Crispy Fried Tofu
 
 - 1 lb. extra-firm tofu
-- 1/4 c. corn starch
+- ¼ c. corn starch
 - 2 c. vegetable oil
 
 Press and drain the tofu. Cube tofu into bite-sized chunks.

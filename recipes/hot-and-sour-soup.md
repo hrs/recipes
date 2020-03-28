@@ -1,17 +1,17 @@
 # Hot & Sour Soup
 
-- 1/2 oz. dried wood ear mushrooms (or dried shiitakes)
+- ½ oz. dried wood ear mushrooms (or dried shiitakes)
 - 8 leaves napa cabbage
 - 4 c. [vegetable broth](./vegetable-broth.md)
-- 1/4 c. soy sauce
-- 1/4 c. rice vinegar
+- ¼ c. soy sauce
+- ¼ c. rice vinegar
 - 3 tsp. Asian hot chile oil
-- 1/2 tsp. sesame oil
+- ½ tsp. sesame oil
 - 1 tsp. ground white pepper
-- 1 1/2 c. white mushrooms
+- 1½ c. white mushrooms
 - 1 tbsp. cornstarch
 - 1 lb. extra-firm tofu
-- 1/2 c. shredded carrots
+- ½ c. shredded carrots
 - 1 c. chopped scallions
 
 Submerge wood ears in a couple cups of boiling water. Cover with a plate and let

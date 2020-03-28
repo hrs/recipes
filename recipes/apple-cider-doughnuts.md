@@ -8,16 +8,16 @@ Makes about 20 doughnuts (and holes).
 ## The dough
 
 - 1 c. apple cider
-- 3 1/2 c. flour
+- 3½ c. flour
 - 2 tsp. baking powder
 - 1 tsp. baking soda
-- 1/2 tsp. ground cinnamon
-- 1/2 tsp. salt
-- 1/8 tsp. ground nutmeg
+- ½ tsp. ground cinnamon
+- ½ tsp. salt
+- ⅛ tsp. ground nutmeg
 - 4 tbsp. butter (room temperature)
 - 1 c. granulated sugar
 - 2 large eggs
-- 1/2 c. buttermilk
+- ½ c. buttermilk
 - Tub of shortening (for frying)
 
 ## The glaze (optional)
@@ -28,9 +28,9 @@ Makes about 20 doughnuts (and holes).
 ## The cinnamon sugar (optional)
 
 - 1 c. granulated sugar
-- 1 1/2 tablespoons cinnamon
+- 1½ tbsp. cinnamon
 
-Reduce the apple cider from 1 c. down to about 1/4 c. in a saucepan over medium
+Reduce the apple cider from 1 c. down to about ¼ c. in a saucepan over medium
 heat. Should take 20 minutes or so. Let it cool.
 
 Combine dry ingredients in a bowl. Set aside.
@@ -40,7 +40,7 @@ reduction, and buttermilk, mixing until combined. Add flour mixture and mix
 until the dough comes together.
 
 Line a couple baking sheets with wax paper and sprinkle with flour (the dough is
-suprisingly sticky). Flatten the dough until it's about 1/2" thick. Harden the
+suprisingly sticky). Flatten the dough until it's about ½" thick. Harden the
 dough a little by putting it in the freezer for 20 minutes.
 
 Cut the dough into doughnut shapes---about 3" on the outside and 1" on the
@@ -54,7 +54,7 @@ Prep the frying area: stove and pan, draining area with paper towels, topping
 tub.
 
 Add shortening to a deep pan to a depth of a couple inches. Attach a candy
-thermometer and heat the oil to 350 F.
+thermometer and heat the oil to 350°F.
 
 Fry the doughnuts a few at a time until they're golden brown (about 60 seconds),
 then flip 'em and fry a bit longer (about 30 seconds). Drain on the paper

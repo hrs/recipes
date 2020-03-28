@@ -6,27 +6,27 @@ PA's Central Market, courtesy of an old copy of the Lancaster newspaper.
 ### For the filling:
 
 - 1 tbsp. vegetable oil
-- 1/2 tsp. cumin/mustard/sesame seed mixture
+- ½ tsp. cumin/mustard/sesame seed mixture
 - 1 tbsp. cumin/coriander powder
 - 1 medium onion, finely chopped
 - 1 tbsp. fresh cilantro leaves, chopped
 - 1 tbsp. lemon juice
-- 1/2 tsp. salt
+- ½ tsp. salt
 - pinch of hot red pepper
 - 3 medium potatoes, boiled, peeled, and cut into tiny pieces
-- 1/4 c. frozen peas
-- 1/4 c. cooked lentils
+- ¼ c. frozen peas
+- ¼ c. cooked lentils
 
 ### For the dough:
 
 - 2 c. white flour
-- 2 1/2 tbsp. vegetable oil
-- 1 1/2 tbsp. rice flour
-- 1/2 tsp. salt
+- 2½ tbsp. vegetable oil
+- 1½ tbsp. rice flour
+- ½ tsp. salt
 
 ### Instructions
 
-Mix dough ingredients in a bowl and add water gradually (about 1/4 c.) until it
+Mix dough ingredients in a bowl and add water gradually (about ¼ c.) until it
 holds together. Knead well, roll into a ball, cover with a moist cloth, and set
 aside for about 20 min.
 
@@ -41,7 +41,7 @@ Add potatoes, peas, and lentils. Mix and saute until just heated through.
 
 Roll dough into 6" to 8" circles. Cut circles in half.
 
-Fold half-circles into thirds and pinch into a cone. Fill the cones 2/3 full of
+Fold half-circles into thirds and pinch into a cone. Fill the cones ⅔ full of
 filling, then moisten the lip of the cone with water and pinch to seal. Squeeze
 to remove air pockets. Flute the sealed edge, if possible.
 

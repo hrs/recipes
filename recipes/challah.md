@@ -16,7 +16,7 @@ eggs. Add flour, one cup at a time, and knead until smooth.
 
 Cover with a damp cloth and let rise for an hour or two.
 
-Preheat oven to 375°.
+Preheat oven to 375°F.
 
 Split dough in half and knead each half for 5 minutes. Split each half into
 three parts, roll them into long rolls, and braid together into two loaves.

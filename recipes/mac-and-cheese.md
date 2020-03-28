@@ -7,21 +7,21 @@
 
 ## For the topping:
 
-- 2/3 c. panko breadcrumbs
+- ⅔ c. panko breadcrumbs
 - 2 tbsp. unsalted butter
-- 1/4 tsp. salt
+- ¼ tsp. salt
 
 ## For the sauce:
 
 - 4 tbsp. unsalted butter
-- 1/3 c. all purpose flour
+- ⅓ c. all purpose flour
 - 3 c. milk, warmed
 - 2 c. shredded gruyere (cheddar or Colby work, too)
 - 1 c. shredded mozzarella cheese
-- 3/4 tsp. salt
+- ¾ tsp. salt
 - 1 tsp. garlic powder (optional)
-- 1/2 tsp. onion powder (optional)
-- 1/2 tsp. mustard powder (optional)
+- ½ tsp. onion powder (optional)
+- ½ tsp. mustard powder (optional)
 
 Bring a large pot of water to the boil. Add macaroni and cook per packet
 directions minus 1 minute. Drain, return pasta to pot, add butter and toss until
@@ -29,7 +29,7 @@ melted. Set aside to cool while making the sauce.
 
 Mix topping ingredients and set aside.
 
-Preheat oven to 350°.
+Preheat oven to 350°F.
 
 Melt butter over medium heat in a large saucepan. Add flour and cook, stirring
 constantly, for 1 minute.

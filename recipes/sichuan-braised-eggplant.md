@@ -2,7 +2,7 @@
 
 The eggplants:
 
-- 1/2 c. salt
+- ½ c. salt
 - 3 Chinese or Japanese eggplants, trimmed, split into quarters lengthwise, and
   cut into 3- to 4-inch lengths
 

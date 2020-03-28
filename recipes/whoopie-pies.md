@@ -2,16 +2,16 @@
 
 *The cookies:*
 
-- 4 cups sifted flour
-- 2 cups sugar
+- 4 c. sifted flour
+- 2 c. sugar
 - 2 tsp. baking soda
 - 1 tsp. baking powder
-- 1 cup cocoa
-- 1/2 tsp. salt
-- 1 cup shortening
+- 1 c. cocoa
+- ½ tsp. salt
+- 1 c. shortening
 - 2 egg yolks (save whites for frosting)
-- 1 cup water
-- 1 cup sour milk
+- 1 c. water
+- 1 c. sour milk
 
 Mix all ingredients together in a big bowl. Beat until well blended.
 
@@ -23,10 +23,10 @@ large whoopie cookies.
 *The frosting:*
 
 - 2 egg whites
-- 1 1/2 cup shortening
+- 1½ c. shortening
 - 2 tsp. vanilla
-- 4 tbs. flour
-- 2 tbs. milk
+- 4 tbsp. flour
+- 2 tbsp. milk
 - 1 box confectioners' sugar
 
 Mix ingredients together in bowl. Beat with mixer until icing is

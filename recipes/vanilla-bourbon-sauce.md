@@ -3,14 +3,14 @@
 (from Iron Hill)
 
 - 2 c. mayonnaise
-- 1/3 c. bourbon prepared + .25 oz reserved raw
-- 1/2 tsp. vanilla extract
-- 2 1/2 tbsp. maple syrup
-- 1.5 tsp. molasses
-- 3/4 tsp. cinnamon
+- ⅓ c. bourbon prepared + ¼ oz. reserved raw
+- ½ tsp. vanilla extract
+- 2½ tbsp. maple syrup
+- 1½ tsp. molasses
+- ¾ tsp. cinnamon
 - pinch kosher salt
 
-In a medium sized sauce pan, add 1/3 c. bourbon and place on high
+In a medium sized sauce pan, add ⅓ c. bourbon and place on high
 heat. Once the alcohol ignites, turn the burner off and allow the
 alcohol to burn off. Cool and set aside.
 

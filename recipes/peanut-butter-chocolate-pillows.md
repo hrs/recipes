@@ -4,24 +4,24 @@ Makes 2 dozen cookies.
 
 ### Chocolate dough:
 
-- 1/2 c. canola oil (vegetable oil is fine, too)
+- ½ c. canola oil (vegetable oil is fine, too)
 - 1 c. sugar
-- 1/4 c. pure maple syrup
+- ¼ c. pure maple syrup
 - 3 tbsp. non-dairy milk
-- 1/2 tsp. vanilla extract
-- 1 1/2 c. all-purpose flour
-- 1/3 c. unsweetened dutch processed cocoa powder
+- ½ tsp. vanilla extract
+- 1½ c. all-purpose flour
+- ⅓ c. unsweetened dutch processed cocoa powder
 - 2 tbsp. black unsweetened cocoa or more dutch processed unsweetened cocoa
   powder
-- 1/2 tsp. baking soda
-- 1/4 tsp. salt
+- ½ tsp. baking soda
+- ¼ tsp. salt
 
 ### Filling:
 
-- 3/4 c. natural salted peanut butter, crunchy or creamy style
-- 2/3 c. confectioner's sugar
+- ¾ c. natural salted peanut butter, crunchy or creamy style
+- ⅔ c. confectioner's sugar
 - 2-3 tbsp. soy creamer or non-dairy milk
-- 1/4 tsp. vanilla extract
+- ¼ tsp. vanilla extract
 
 In a large mixing bowl combine oil, sugar, maple syrup, non-dairy milk and
 vanilla extract and mix until smooth. Sift in flour, cocoa powder, black cocoa

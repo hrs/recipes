@@ -2,12 +2,12 @@
 
 - white onion, chopped
 - 2 garlic cloves, minced or pressed
-- a tbsp vegetable oil
+- 1 tbsp. vegetable oil
 - 1 bunch kale or chard (or a bag of spinach)
 - 20 oz. can undrained crushed pineapple
-- 1/2 cup peanut butter
-- 1 tbsp Tabasco sauce
-- 1/2 cup chopped fresh cilantro
+- ½ c. peanut butter
+- 1 tbsp. Tabasco sauce
+- ½ c. chopped fresh cilantro
 - salt to taste
 
 Saute the onions and garlic for about 10 minutes, stirring frequently, until the
