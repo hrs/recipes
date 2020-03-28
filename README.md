@@ -51,6 +51,7 @@ here. Git: it's not just for code!
 - [Apple Crisp](./recipes/apple-crisp.md)
 - [Apple Sauce](./recipes/apple-sauce.md) :seedling:
 - [Banana Bread](./recipes/banana-bread.md) :seedling:
+- [Blueberry Muffins](./recipes/blueberry-muffins.md)
 - [Bran Muffins](./recipes/bran-muffins.md)
 - [Challah](./recipes/challah.md)
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md)
