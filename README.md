@@ -55,6 +55,7 @@ here. Git: it's not just for code!
 - [Blueberry Muffins](./recipes/blueberry-muffins.md)
 - [Bran Muffins](./recipes/bran-muffins.md)
 - [Challah](./recipes/challah.md)
+- [Crepes](./recipes/crepes.md)
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md)
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md) :seedling:
 - [Whoopie Pies](./recipes/whoopie-pies.md)
