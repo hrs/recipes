@@ -18,7 +18,7 @@ Loosen, flip, and cook the other side.
 You can fill these with just about anything (or just serve them plain, with a
 little butter and powdered sugar). We've tried and enjoyed:
 
-- mascarpone and berries,
+- [mascarpone](./mascarpone.md) and berries,
 - apple pie filling,
 - sautéed mushrooms and spinach, with some black pepper and thyme, and
 - black beans, salsa, and cheddar.
