@@ -16,7 +16,7 @@
 - 4 c. vegetable stock
 - 2 cloves garlic, peeled and roughly chopped
 
-Preheat oven to 400°F. Cover rice with water, stir in 1 tsp. salt, and let soak.
+Preheat oven to 400°. Cover rice with water, stir in 1 tsp. salt, and let soak.
 
 Combine spices in a small bowl.
 

@@ -33,7 +33,7 @@ moist but firm dough. If peanut butter dough is too dry (as different natural
 peanut butters have different moisture content), stir in remaining tablespoon of
 non-dairy milk. If dough is too wet knead in a little extra powdered sugar.
 
-Preheat oven to 350°F. Line bakings sheet with parchment paper.
+Preheat oven to 350°. Line bakings sheet with parchment paper.
 
 Shape the cookies. Create the centers of the cookies by rolling the peanut
 butter dough into 24 balls. Scoop a generous tablespoon of chocolate dough,

@@ -11,7 +11,7 @@
 - ¼ tsp. ground nutmeg
 - ½ tsp. salt
 
-Preheat oven to 350°F. Lightly grease a 9x5 loaf pan (or muffin sheet).
+Preheat oven to 350°. Lightly grease a 9x5 loaf pan (or muffin sheet).
 
 Mash bananas and mix with liquids. Sift in solids. Mix well with a
 wooden spoon. Optionally, fold in nuts or chocolate chips.

@@ -13,7 +13,7 @@
 
 Cook pasta according to package directions.
 
-Preheat oven to 350°F.
+Preheat oven to 350°.
 
 Combine cheese, eggs, parsley, oregano, salt, and pepper.
 

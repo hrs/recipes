@@ -8,7 +8,7 @@
 - 2 c. butter
 - 10 Cortland apples, cored and sliced (or other "tart" apple)
 
-Preheat oven to 350°F.
+Preheat oven to 350°.
 
 In a large bowl, combine the flour, oatmeal, cinnamon, nutmeg and brown sugar.
 Cut butter into mixture until crumbly.

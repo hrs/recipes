@@ -15,7 +15,7 @@ Combine yeast and warm water in a mixing bowl. Add salt and flour, mixing into a
 rough dough. Knead dough for 5 minutes, roll it in a splash of vegetable oil,
 cover in the bowl, and let rise for an hour.
 
-Preheat oven to 500°F.
+Preheat oven to 500°.
 
 Cover a baking sheet with parchment paper (or dust it with cornmeal).
 

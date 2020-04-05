@@ -10,7 +10,7 @@ water) on medium-high heat.
 Add cream to bowl. Heat until warm.
 
 Whisk in lemon juice and cream of tartar. Stir and continue heating until
-temperature reaches about 180°F.
+temperature reaches about 180°.
 
 While heating, line a colander with cheesecloth (a couple of moist paper towels
 work, too). Once the mix is hot enough, pour it into the strainer.

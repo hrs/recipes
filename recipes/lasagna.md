@@ -21,7 +21,7 @@ For the sauce:
 - 2 jars of commercial pasta sauce
 - Bag of spinach
 
-Preheat oven to 375°F.
+Preheat oven to 375°.
 
 Saute the onion, pepper, zucchini, carrots, and garlic in a large saucepan with
 the olive oil. Feel free to add some salt and pepper, cracked red pepper, or

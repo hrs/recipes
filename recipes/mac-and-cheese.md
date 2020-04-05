@@ -29,7 +29,7 @@ melted. Set aside to cool while making the sauce.
 
 Mix topping ingredients and set aside.
 
-Preheat oven to 350°F.
+Preheat oven to 350°.
 
 Melt butter over medium heat in a large saucepan. Add flour and cook, stirring
 constantly, for 1 minute.

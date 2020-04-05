@@ -54,7 +54,7 @@ Prep the frying area: stove and pan, draining area with paper towels, topping
 tub.
 
 Add shortening to a deep pan to a depth of a couple inches. Attach a candy
-thermometer and heat the oil to 350°F.
+thermometer and heat the oil to 350°.
 
 Fry the doughnuts a few at a time until they're golden brown (about 60 seconds),
 then flip 'em and fry a bit longer (about 30 seconds). Drain on the paper

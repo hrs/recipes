@@ -12,7 +12,7 @@
 - 2 tbsp. olive oil
 - squirt of honey
 
-Line muffin pan with paper liners & preheat oven to 400°F. Combine all dry
+Line muffin pan with paper liners & preheat oven to 400°. Combine all dry
 ingredients. In separate bowl, combine liquid ingredients. Mix all together
 until just combined. Scoop by ¼ cups into pan. Bake 14-16 minutes or until
 toothpick comes out sticky but clean. These really do not rise. I fill the cups

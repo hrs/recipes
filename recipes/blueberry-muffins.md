@@ -15,7 +15,7 @@ Makes about a dozen full-size muffins.
 - Zest of 1 lemon
 - 1½ c. blueberries, fresh or frozen
 
-Preheat oven to 400°F. Line muffin tin cups with liners (or grease the cups
+Preheat oven to 400°. Line muffin tin cups with liners (or grease the cups
 *thoroughly*; this batter is a bit sticky).
 
 Toss berries with a little flour. This keeps them from sticking together and
