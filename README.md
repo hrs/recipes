@@ -35,6 +35,7 @@ here. Git: it's not just for code!
 
 ### Sides, Sauces, and Components
 
+- [Bananas Foster Sauce](./recipes/bananas-foster-sauce.md)
 - [Braised Greens with Butter](./recipes/braised-greens-with-butter.md)
 - [Crispy Fried Tofu](./recipes/crispy-fried-tofu.md) :seedling:
 - [Knife-Cut Noodles](./recipes/knife-cut-noodles.md) :seedling:
