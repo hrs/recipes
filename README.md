@@ -27,7 +27,7 @@ here. Git: it's not just for code!
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md) :seedling:
 - [Stuffed Shells](./recipes/stuffed-shells.md)
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md) :seedling:
-- [Vegetable Risotto](./recipes/vegetable-risotto.md)
+- [Vegetable Risotto](./recipes/vegetable-risotto.md) :seedling:
 - [Veggie Chili](./recipes/veggie-chili.md) :seedling:
 - [Veggie Lasagna](./recipes/lasagna.md)
 - [West African Groundnut Stew](./recipes/west-african-groundnut-stew.md) :seedling:
