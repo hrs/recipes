@@ -12,7 +12,7 @@
 ## For the sauce
 
 - ¼ c. soy sauce
-- 3 tsp. granulated sugar
+- 1 tbsp. granulated sugar
 - 2 tsp. sesame oil
 - ½ tsp. ground ginger
 - 1 tsp. sriracha
