@@ -61,4 +61,5 @@ here. Git: it's not just for code!
 - [Dutch Baby](./recipes/dutch-baby.md)
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md)
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md) :seedling:
+- [Sourdough Bread](./recipes/sourdough-bread.md) :seedling:
 - [Whoopie Pies](./recipes/whoopie-pies.md)
