@@ -2,9 +2,8 @@
 
 - 1 tsp. active dry yeast
 - ¾ c. warm water
-- 2 c. bread flour (*not* all-purpose flour)
+- 2 c. bread flour
 - 1½ tsp. salt
-- 1 tbsp. vegetable oil
 - 3 tbsp. olive oil
 - 1 c. pizza sauce (or pasta sauce, with some garlic and oregano)
 - ⅔ lb. mozzarella cheese
@@ -12,8 +11,8 @@
 - toppings, as desired
 
 Combine yeast and warm water in a mixing bowl. Add salt and flour, mixing into a
-rough dough. Knead dough for 5 minutes, roll it in a splash of vegetable oil,
-cover in the bowl, and let rise for an hour.
+rough dough. Knead dough for 5 minutes, roll it in a splash of olive oil, cover
+in the bowl, and let rise for an hour.
 
 Preheat oven to 500°.
 
