@@ -7,7 +7,7 @@ make for a better crumb, I think.
 [Extra-Tangy Sourdough]: https://www.kingarthurflour.com/recipes/extra-tangy-sourdough-bread-recipe
 
 - 1 c. ripe (fed) sourdough starter
-- 1⅝ c. lukewarm water
+- 1¾ c. lukewarm water
 - 1 tbsp. vital wheat gluten
 - 5 c. bread or all-purpose flour
 - 1 tbsp. salt
