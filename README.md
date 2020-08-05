@@ -28,6 +28,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Pizza](./recipes/pizza.md) :cheese:
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md)
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md)
+- [Spicy Stirfry Chickpeas](./recipes/spicy-stirfry-chickpeas.md)
 - [Stuffed Shells](./recipes/stuffed-shells.md) :cheese: :egg:
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md)
 - [Vegetable Risotto](./recipes/vegetable-risotto.md)
