@@ -26,6 +26,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Peas and Mushrooms](./recipes/peas-and-mushrooms.md) :butter: :milk_glass:
 - [Pineapple Peanut Stew](./recipes/pineapple-peanut-stew.md)
 - [Pizza](./recipes/pizza.md) :cheese:
+- [Scallion Pancakes](./recipes/scallion-pancakes.md)
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md)
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md)
 - [Spicy Stirfry Chickpeas](./recipes/spicy-stirfry-chickpeas.md)
