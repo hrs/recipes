@@ -1,0 +1,24 @@
+# French Toast Muffins
+
+Borrowed from [Christina Tosi's recipe](https://www.christinatosi.com/post/french-toast-muffins).
+
+- 3 eggs
+- ¾ c. milk (nut milks are fine)
+- ⅓ c. light brown sugar
+- ¼ c. all-purpose flour
+- ½ tsp. vanilla extract
+- ¼ tsp. cinnamon
+- ¼ tsp. salt
+- 6 slices of white bread
+- Butter, for serving
+- Maple syrup, for serving
+
+Preheat oven to 375°. Line 6 cups of a muffin pan.
+
+Whisk together eggs, milk, brown sugar, flour, vanilla extract, cinnamon, and salt.
+
+Tear apart bread slices into 1-inch pieces and soak in the egg mixture.
+
+Divide mixture evenly into 6 muffin cups.
+
+Bake for 25 minutes. Let cool briefly and serve.

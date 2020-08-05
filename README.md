@@ -63,6 +63,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Challah](./recipes/challah.md) :bee: :egg:
 - [Crepes](./recipes/crepes.md) :butter: :egg:
 - [Dutch Baby](./recipes/dutch-baby.md) :egg:
+- [French Toast Muffins](./recipes/french-toast-muffins.md) :egg:
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md) :egg: :milk_glass:
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md)
 - [Sourdough Bread](./recipes/sourdough-bread.md)
