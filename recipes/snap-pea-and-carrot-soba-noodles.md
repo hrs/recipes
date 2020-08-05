@@ -27,7 +27,7 @@ slice them into ribbons with a vegetable peeler.
 To make the sauce: whisk together the ingredients in a small bowl until
 emulsified. Set aside.
 
-Bring two big pots of water to a boil. Mwanwhile, toast the sesame seeds: Pour
+Bring two big pots of water to a boil. Meanwhile, toast the sesame seeds: Pour
 the sesame seeds into a small pan. Toast for about 4 to 5 minutes over
 medium-low heat, shaking the pan frequently to prevent burning, until the seeds
 are turning golden and starting to make popping noises.

@@ -6,7 +6,7 @@ have a stir-fry plan in place, too.
 This isn't super authentic, but it also doesn't require any special tools,
 ingredients, or training, so it's a nice compromise.
 
-- 4 c. bread flour (*not* all-purpose flour)
+- 4 c. bread flour
 - 1 c. water
 
 Put bread flour in a mixing bowl and slowly (1/8 c. at a time) mix in the water

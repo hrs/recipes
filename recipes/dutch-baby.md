@@ -2,7 +2,7 @@
 
 - 3 eggs
 - ½ c. flour
-- ½ c. milk
+- ½ c. milk (nut milks are fine)
 - 1 tbsp. sugar
 - 1 tsp. vanilla
 - Pinch of nutmeg

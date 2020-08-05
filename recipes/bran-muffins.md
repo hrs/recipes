@@ -8,7 +8,7 @@
 - ½ tsp. cinnamon
 - 2 large ripe bananas, mashed
 - 2 egg whites, lightly beaten
-- ½ c. skim milk
+- ½ c. skim milk (nut milks are fine)
 - 2 tbsp. olive oil
 - squirt of honey
 
