@@ -6,14 +6,17 @@ make for a better crumb, I think.
 
 [Extra-Tangy Sourdough]: https://www.kingarthurflour.com/recipes/extra-tangy-sourdough-bread-recipe
 
+I reliably forget at least one step in this process unless I use a checklist, so
+I've created a [sourdough checklist (PDF)][].
+
+[sourdough checklist (PDF)]: ../documents/sourdough-checklist.pdf
+
 - 1 c. ripe (fed) sourdough starter
 - 1¾ c. lukewarm water
 - 1 tbsp. vital wheat gluten
 - 5 c. bread or all-purpose flour
 - 1 tbsp. salt
 - 2 tbsp. olive oil
-- 1 egg (optional
-- 1 tbsp. sesame seeds (optional)
 
 Combine starter, water, gluten, and 3 c. flour. Mix.
 
@@ -35,12 +38,10 @@ Preheat oven to 425°.
 Optionally, fill a pan with water and place it on the bottom rack of the oven;
 this fills the oven with steam and makes the crust chewier.
 
-If desired, scramble an egg, brush it on the loaves, and sprinkle with sesame
-seeds. This provides some nice flavor and looks lovely.
+Spray the loaves with lukewarm water and/or slather on an extra coat of olive
+oil.
 
-Spray the loaves with lukewarm water.
-
-Slash the loaves; two diagonal slashes are fine.
+Slash the loaves. Two diagonal slashes are fine.
 
 Bake bread for 25–30 minutes (28 seems to work perfectly for us here in
 Colorado) until it's a deep golden brown.
