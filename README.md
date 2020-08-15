@@ -46,6 +46,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Knife-Cut Noodles](./recipes/knife-cut-noodles.md)
 - [Mascarpone](./recipes/mascarpone.md) :milk_glass:
 - [Peanut Dipping Sauce](./recipes/peanut-sauce.md)
+- [Pickled Carrots](./recipes/pickled-carrots.md)
 - [Roasted Potatoes](./recipes/roasted-potatoes.md)
 - [Samosas](./recipes/samosas.md)
 - [Smoked Paprika Aioli](./recipes/smoked-paprika-aioli.md) :egg:
