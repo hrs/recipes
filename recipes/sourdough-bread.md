@@ -13,7 +13,7 @@ I've created a [sourdough checklist (PDF)][].
 
 - 1 c. ripe (fed) sourdough starter
 - 1¾ c. lukewarm water
-- 1 tbsp. vital wheat gluten
+- 1 tbsp. vital wheat gluten (optional)
 - 5 c. bread or all-purpose flour
 - 1 tbsp. salt
 - 2 tbsp. olive oil
