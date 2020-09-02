@@ -1,0 +1,44 @@
+# Pineapple Quinoa Stir-fry
+
+For the pineapple quinoa:
+
+- 1 c. quinoa
+- 1 c. pineapple juice
+- 1 c. water
+- Splash of soy sauce
+
+For the rest of it:
+
+- 3 tbsp. soy sauce
+- 3 tbsp. [vegetable broth](vegetable-broth.md)
+- 1 tbsp. mirin
+- 1 c. raw cashews
+- Couple tablespoons of peanut oil
+- 2 scallions, chopped
+- 3 cloves garlic, minced
+- 1 hot chili pepper, diced
+- 1" ginger, minced
+- 1 bell pepper, diced
+-1 c. frozen peas
+- ½ c. basil leaves, chiffonaded
+- 2 c. fresh pineapple, chopped into little bits
+
+First, prep the quinoa. Cook the quinoa, pineapple juice, water, and soy sauce
+in a rice cooker until done. Refrigerate for a couple hours (ideally overnight).
+
+Next, make sure all your ingredients are chopped and ready to go.
+
+Combine soy sauce,vegetable broth, and mirin. Set aside.
+
+Toast the cashews in a dry wok for 5 minutes or so over medium-low heat. Remove
+and set aside.
+
+Raise heat to medium. Add oil, garlic, and scallions, and cook for a minute
+until it starts to sizzle.
+
+Add chili and ginger. Cook for a couple minutes.
+
+Add bell pepper and peas. Cook until peas are bright green.
+
+Add basil, pineapple, quinoa, toasted cashews, and soy sauce mixture. Stir-fry
+for 10 to 15 minutes, until very hot. Done!

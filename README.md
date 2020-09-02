@@ -25,6 +25,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Pasta Fresca](./recipes/pasta-fresca.md) :cheese:
 - [Peas and Mushrooms](./recipes/peas-and-mushrooms.md) :butter: :milk_glass:
 - [Pineapple Peanut Stew](./recipes/pineapple-peanut-stew.md)
+- [Pineapple Quinoa Stir-fry](./recipes/pineapple-quinoa-stir-fry.md)
 - [Pizza](./recipes/pizza.md) :cheese:
 - [Scallion Pancakes](./recipes/scallion-pancakes.md)
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md)
