@@ -49,6 +49,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Peanut Dipping Sauce](./recipes/peanut-sauce.md)
 - [Pickled Carrots](./recipes/pickled-carrots.md)
 - [Roasted Potatoes](./recipes/roasted-potatoes.md)
+- [Salsa](./recipes/salsa.md)
 - [Samosas](./recipes/samosas.md)
 - [Smoked Paprika Aioli](./recipes/smoked-paprika-aioli.md) :egg:
 - [Stir-fry Sauces](./recipes/stir-fry-sauces.md)
