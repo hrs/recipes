@@ -19,7 +19,7 @@ For the rest of it:
 - 1 hot chili pepper, diced
 - 1" ginger, minced
 - 1 bell pepper, diced
--1 c. frozen peas
+- 1 c. frozen peas
 - ½ c. basil leaves, chiffonaded
 - 2 c. fresh pineapple, chopped into little bits
 
@@ -28,17 +28,13 @@ in a rice cooker until done. Refrigerate for a couple hours (ideally overnight).
 
 Next, make sure all your ingredients are chopped and ready to go.
 
-Combine soy sauce,vegetable broth, and mirin. Set aside.
-
 Toast the cashews in a dry wok for 5 minutes or so over medium-low heat. Remove
 and set aside.
 
-Raise heat to medium. Add oil, garlic, and scallions, and cook for a minute
-until it starts to sizzle.
-
-Add chili and ginger. Cook for a couple minutes.
+Raise heat to medium. Add oil, garlic, scallions, chili, and ginger. Cook for a
+couple minutes.
 
 Add bell pepper and peas. Cook until peas are bright green.
 
-Add basil, pineapple, quinoa, toasted cashews, and soy sauce mixture. Stir-fry
-for 10 to 15 minutes, until very hot. Done!
+Add basil, pineapple, quinoa, toasted cashews, soy sauce, mirin, and vegetable
+broth mixture. Stir-fry for 10 to 15 minutes, until very hot. Done!
