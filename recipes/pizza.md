@@ -5,7 +5,8 @@
 - 2 c. bread flour
 - 1½ tsp. salt
 - 3 tbsp. olive oil
-- 1 c. pizza sauce (or pasta sauce, with some garlic and oregano)
+- 1 c. [pizza sauce](pizza-sauce.md) (or pre-made pasta sauce with some extra
+  garlic and oregano, in a pinch)
 - ⅔ lb. mozzarella cheese
 - ¼ lb. Parmesan cheese
 - toppings, as desired

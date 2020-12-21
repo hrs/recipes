@@ -48,6 +48,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Mascarpone](./recipes/mascarpone.md) :milk_glass:
 - [Peanut Dipping Sauce](./recipes/peanut-sauce.md)
 - [Pickled Carrots](./recipes/pickled-carrots.md)
+- [Pizza Sauce](./recipes/pizza-sauce.md)
 - [Roasted Potatoes](./recipes/roasted-potatoes.md)
 - [Salsa](./recipes/salsa.md)
 - [Samosas](./recipes/samosas.md)
