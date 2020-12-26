@@ -4,12 +4,12 @@
 - ½ can of diced green chilies (or a jalapeno)
 - 2 cloves garlic
 - 4 scallions
-- handful fresh cilantro
-- tablespoon of lime juice
+- Handful fresh cilantro
+- 1 tbsp. lime juice
 - ½ tsp. chili powder
 - ½ tsp. dried oregano
-- dash ground cumin
-- dash black pepper
-- salt to taste
+- Dash ground cumin
+- Dash black pepper
+- Salt to taste
 
 Add all ingredients to blender. Blend until mostly smooth but still a bit chunky.
