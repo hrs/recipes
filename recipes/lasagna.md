@@ -21,7 +21,8 @@ For the sauce:
 - 2 jars of commercial pasta sauce
 - Bag of spinach
 
-Preheat oven to 375°.
+If you're planning on baking the lasagna immediately after assembling it,
+preheat oven to 375°.
 
 Saute the onion, pepper, zucchini, carrots, and garlic in a large saucepan with
 the olive oil. Feel free to add some salt and pepper, cracked red pepper, or
@@ -33,7 +34,14 @@ While the sauce simmers, combine ricotta, mozzarella, and eggs and stir until
 well mixed.
 
 In a 13"x9" baking dish, add a ladle-full of sauce, then start layering noodles,
-cheese, and sauce until all ingredients have been used up. Top with Parmesan.
+cheese, and sauce until all ingredients have been used up. Top with Parmesan and
+cover dish with foil.
 
-Cover dish with foil and bake for 30 minutes. Remove from oven, remove foil, let
-cool for a few minutes, and serve.
+You can store this in the fridge for a day or so before baking it. It'll be
+colder inside if you do, though, so you'll need to bake it longer to ensure that
+the noodles are fully cooked.
+
+If you're baking it immediately after assembly, put it in for 30 minutes. If
+it's cold, give it 50--60 minutes.
+
+Remove from oven, remove foil, let cool for a few minutes, and serve.
