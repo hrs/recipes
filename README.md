@@ -71,5 +71,4 @@ Anything not so marked is either vegan or trivially veganizable.
 - [French Toast Muffins](./recipes/french-toast-muffins.md) :egg:
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md) :egg: :milk_glass:
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md)
-- [Sourdough Bread](./recipes/sourdough-bread.md)
 - [Whoopie Pies](./recipes/whoopie-pies.md) :egg: :milk_glass:
