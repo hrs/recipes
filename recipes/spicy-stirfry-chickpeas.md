@@ -8,7 +8,7 @@ Adapted from [Grim Grains](https://grimgrains.com/site/spicy_stirfry_chickpeas.h
 - ⅓ lb. tofu, cubed
 - 2 tsp. soy sauce
 - 1 tsp. balsamic vinegar
-- 1 tbsp. arrowroot powder
+- 1 tbsp. cornstarch or arrowroot powder
 - Pinches of salt and pepper
 
 ## For the sauce:
@@ -16,7 +16,7 @@ Adapted from [Grim Grains](https://grimgrains.com/site/spicy_stirfry_chickpeas.h
 - 1 tbsp. maple syrup
 - 1 tbsp. soy sauce
 - 2 tbsp. balsamic vinegar
-- 1 tbsp. arrowroot powder
+- 1 tbsp. cornstarch or arrowroot powder
 - 1 tsp. sesame oil
 
 ## For the stirfry:
