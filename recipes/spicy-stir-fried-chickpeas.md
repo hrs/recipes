@@ -27,7 +27,7 @@ Adapted from [Grim Grains](https://grimgrains.com/site/spicy_stirfry_chickpeas.h
 - Inch of ginger, peeled and diced
 - Several leaves of red cabbage, sliced
 - 1 tsp. red pepper flakes
-- 1 tsp. Sichuan peppercorns
+- 1 tsp. ground Sichuan peppercorns
 - Pinches of salt and pepper
 
 Combine all marinade ingredients, including the tofu and chickpeas, and
@@ -37,10 +37,9 @@ Combine sauce ingredients in a small bowl.
 
 Drain marinated chickpeas and tofu.
 
-Heat a tablespoon of vegetable oil in a frying pan. Add red pepper flakes and
-peppercorns and toast until fragrant.
-
-Add tofu, chickpeas, carrot, and red cabbage. Cook for a minute or two.
+Heat a tablespoon of vegetable oil in a frying pan. Add tofu, chickpeas, carrot,
+red cabbage, red pepper flakes, and ground peppercorns. Cook for a minute or
+two.
 
 Add ginger, garlic, and scallions. Cook for a few more minutes.
 
