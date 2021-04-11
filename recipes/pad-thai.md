@@ -1,4 +1,4 @@
-# Vegan Pad Thai
+# Pad Thai
 
 (Adapted from *Vegan with a Vengeance*)
 

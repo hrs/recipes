@@ -10,7 +10,7 @@ Anything not so marked is either vegan or trivially veganizable.
 
 ### Main Dishes
 
-- [Baked Macaroni & Cheese](./recipes/mac-and-cheese.md) :butter: :cheese:
+- [Baked Macaroni & Cheese](./recipes/baked-mac-and-cheese.md) :butter: :cheese:
 - [Cheese Fondue](./recipes/cheese-fondue.md) :cheese:
 - [Chipotle, Corn, and Black Bean Stew](./recipes/chipotle-corn-and-black-bean-stew.md)
 - [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md)
@@ -30,7 +30,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Scallion Pancakes](./recipes/scallion-pancakes.md)
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md)
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md)
-- [Spicy Stirfry Chickpeas](./recipes/spicy-stirfry-chickpeas.md)
+- [Spicy Stir-fried Chickpeas](./recipes/spicy-stir-fried-chickpeas.md)
 - [Stuffed Shells](./recipes/stuffed-shells.md) :cheese: :egg:
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md)
 - [Vegetable Risotto](./recipes/vegetable-risotto.md)

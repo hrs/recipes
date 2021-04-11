@@ -1,4 +1,4 @@
-# Vegetable Lo Mein
+# Lo Mein
 
 - 8 oz. lo mein egg noodles
 - 1 tbsp. olive oil

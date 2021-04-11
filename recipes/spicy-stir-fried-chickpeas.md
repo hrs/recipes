@@ -1,4 +1,4 @@
-# Spicy Stirfry Chickpeas
+# Spicy Stir-fried Chickpeas
 
 Adapted from [Grim Grains](https://grimgrains.com/site/spicy_stirfry_chickpeas.html).
 

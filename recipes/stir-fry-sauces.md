@@ -1,4 +1,4 @@
-# Stir fry sauces
+# Stir-fry Sauces
 
 A few different ones.
 

@@ -1,4 +1,4 @@
-# Double Bran Gem Muffins
+# Bran Muffins
 
 - 1 c. wheat bran
 - 1 c. oat bran
