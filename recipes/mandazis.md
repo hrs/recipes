@@ -1,0 +1,30 @@
+# Mandazis
+
+ - 1 c. milk (almond works well)
+- ¼ c. vegetable oil
+- ¼ c. sugar
+- 1 egg
+- 2 tsp. instant yeast
+- ½ tsp. salt
+- 1 tsp. cardamom
+- 3 ½ c. flour
+
+Mix together all ingredients, flour last.
+
+Knead for a couple of minutes. Add a bit more flour if the dough feels
+especially sticky.
+
+Let dough sit, covered, for an hour.
+
+Divide dough into four equal balls.
+
+Roll each ball out into a circle about ⅓" thick. Divide into eighths, like a
+pizza.
+
+Deep-fry each wedge of dough in oil until puffed up and golden brown.
+
+Serve with jam or honey.
+
+---
+
+![mandazis](../images/mandazis.jpg)

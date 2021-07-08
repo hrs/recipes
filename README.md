@@ -70,5 +70,6 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Dutch Baby](./recipes/dutch-baby.md) :egg:
 - [French Toast Muffins](./recipes/french-toast-muffins.md) :egg:
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md) :egg: :milk_glass:
+- [Mandazis](./recipes/mandazis.md) :egg:
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md)
 - [Whoopie Pies](./recipes/whoopie-pies.md) :egg: :milk_glass:
