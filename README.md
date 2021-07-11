@@ -52,6 +52,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Roasted Potatoes](./recipes/roasted-potatoes.md)
 - [Salsa](./recipes/salsa.md)
 - [Samosas](./recipes/samosas.md)
+- [Seitan](./recipes/seitan.org)
 - [Smoked Paprika Aioli](./recipes/smoked-paprika-aioli.md) :egg:
 - [Stir-fry Sauces](./recipes/stir-fry-sauces.md)
 - [Vanilla Bourbon Sauce](./recipes/vanilla-bourbon-sauce.md) :egg:
