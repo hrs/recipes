@@ -43,6 +43,7 @@ Anything not so marked is either vegan or trivially veganizable.
 
 - [Bananas Foster Sauce](./recipes/bananas-foster-sauce.md) :butter:
 - [Braised Greens with Butter](./recipes/braised-greens-with-butter.md) :butter:
+- [Cold Brew Coffee](./recipes/cold-brew-coffee.org)
 - [Crispy Fried Tofu](./recipes/crispy-fried-tofu.md)
 - [Knife-Cut Noodles](./recipes/knife-cut-noodles.md)
 - [Mascarpone](./recipes/mascarpone.md) :milk_glass:
