@@ -17,6 +17,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Fried Rice](./recipes/fried-rice.md) :egg:
 - [Hot and Sour Soup](./recipes/hot-and-sour-soup.md)
 - [Lentil Soup](./recipes/lentil-soup.md)
+- [Lentils Diavolo](./recipes/lentils-diavolo.org)
 - [Lo Mein](./recipes/lo-mein.md)
 - [Maqluba](./recipes/maqluba.md)
 - [Navratan Korma](./recipes/navratan-korma.md)
