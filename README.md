@@ -34,6 +34,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Spicy Stir-fried Chickpeas](./recipes/spicy-stir-fried-chickpeas.md)
 - [Stuffed Shells](./recipes/stuffed-shells.md) :cheese: :egg:
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md)
+- [Tuscan Bean Soup](./recipes/tuscan-bean-soup.org)
 - [Vegetable Risotto](./recipes/vegetable-risotto.md)
 - [Veggie Chili](./recipes/veggie-chili.md)
 - [Veggie Lasagna](./recipes/lasagna.md) :cheese: :egg:
