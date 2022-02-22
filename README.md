@@ -31,6 +31,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Scallion Pancakes](./recipes/scallion-pancakes.md)
 - [Sichuan Braised Eggplant](./recipes/sichuan-braised-eggplant.md)
 - [Snap Pea and Carrot Soba Noodles](./recipes/snap-pea-and-carrot-soba-noodles.md)
+- [Spanakopita](./recipes/spanakopita.org) :cheese: :egg:
 - [Spicy Stir-fried Chickpeas](./recipes/spicy-stir-fried-chickpeas.md)
 - [Stuffed Shells](./recipes/stuffed-shells.md) :cheese: :egg:
 - [Thai Green Coconut Curry](./recipes/thai-green-coconut-curry.md)
