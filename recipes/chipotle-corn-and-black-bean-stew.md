@@ -16,12 +16,10 @@
 - 1 c. cilantro, shredded
 - 1 lime, zested and juiced
 
-Saute onions in oil for 5 minutes.
+Saute onions and garlic in oil for 5 minutes.
 
-Add garlic, cumin, salt, and pepper. Saute one minute more.
-
-Add chipotles, tomatoes, water, potatoes, and carrots. Cover and simmer for 20
-minutes.
+Add chipotles, tomatoes, water, potatoes, carrots, salt, pepper, and cumin.
+Cover and simmer for 20 minutes.
 
 Add corn and beans. Simmer for five more minutes.
 
