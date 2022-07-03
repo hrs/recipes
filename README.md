@@ -12,6 +12,7 @@ Anything not so marked is either vegan or trivially veganizable.
 
 - [Baked Macaroni & Cheese](./recipes/baked-mac-and-cheese.md) :butter: :cheese:
 - [Cheese Fondue](./recipes/cheese-fondue.md) :cheese:
+- [Chickpeas & Tomatoes](./recipes/chickpeas-and-tomatoes.org)
 - [Chipotle, Corn, and Black Bean Stew](./recipes/chipotle-corn-and-black-bean-stew.md)
 - [Cold Peanut "Noodles"](./recipes/cold-peanut-noodles.md)
 - [Fried Rice](./recipes/fried-rice.md) :egg:
