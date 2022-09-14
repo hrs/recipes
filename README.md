@@ -79,4 +79,5 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Mandazis](./recipes/mandazis.md) :egg:
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md)
 - [Peanut Butter & Jelly Traybake](./recipes/peanut-butter-and-jelly-traybake.org) :egg:
+- [Whipped Cream](./recipes/whipped-cream.org) :milk_glass:
 - [Whoopie Pies](./recipes/whoopie-pies.md) :egg: :milk_glass:
