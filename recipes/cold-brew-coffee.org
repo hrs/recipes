@@ -1,4 +1,4 @@
-* Cold Brew Coffee
+#+title: Cold Brew Coffee
 
 - 6 oz. coffee, ground coarsely
 - 36 oz. cold water (filtered, if possible)
