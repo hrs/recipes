@@ -1,9 +1,0 @@
-# Smoked Paprika Aioli
-
-(from Iron Hill)
-
-- 1 c. mayo
-- 2 tsp. smoked paprika
-- 1 tbsp. finely minced garlic
-
-Mix and refrigerate.
