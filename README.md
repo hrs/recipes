@@ -75,6 +75,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [Crepes](./recipes/crepes.md) :butter: :egg:
 - [Dutch Baby](./recipes/dutch-baby.md) :egg:
 - [French Toast Muffins](./recipes/french-toast-muffins.md) :egg:
+- [Fruit Tart](./recipes/fruit-tart.org) :egg:
 - [Giant Chocolate Trifle](./recipes/giant-chocolate-trifle.md) :egg: :milk_glass:
 - [Mandazis](./recipes/mandazis.md) :egg:
 - [Peanut Butter Chocolate Pillows](./recipes/peanut-butter-chocolate-pillows.md)

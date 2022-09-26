@@ -1,0 +1,51 @@
+#+title: Fruit Tart
+
+Adapted from the /Better Homes and Gardens/ cookbook.
+
+- One [[file:pie-crust.org][pie crust]] (the smaller, shell/tart-sized one)
+- 1 lb. fruit, peeled and sliced (see below)
+- ¼ c. sugar
+- 4 tsp. flour
+- ¼ tsp. nutmeg
+- 1 tbsp. lemon juice
+- 1 egg
+- Some powdered sugar for decoration
+- [[file:whipped-cream.org][Whipped cream]] (optional, but /highly/ recommended)
+
+Preheat oven to 375°.
+
+Prepare pie crust.
+
+Line a baking sheet with foil. Roll out pie crust on top into a 13" circle.
+
+Mix sugar, flour, and nutmeg; stir in fruit and lemon juice.
+
+Pile the mixture in the center of the crust, leaving a 2" border.
+
+Fold border up over fruit filling, pleating to fit.
+
+Make an egg wash by beating the egg together with 1 tbsp. water. Brush the crust
+with the egg wash.
+
+Bake for 30 minutes. Remove and wrap some aluminum foil around the edges of the
+crust to prevent browning. Bake another 15 minutes.
+
+Cool on sheet for 30 minutes. Dust crust with powdered sugar.
+
+---
+
+/Fruits that work well:/
+
+- 4 peaches, peeled and sliced. To make them easier to peel, cut a little =X= on
+  the skin, boil them for about 30 seconds, then let them cool in ice water. The
+  skin should come right off.
+- 4 nectarines, sliced. Peeling's optional and not strictly necessary.
+- A pound of strawberries.
+- 4 baking apples (like Granny Smiths), peeled and sliced. Maybe add ½ tsp.
+  cinnamon to the filling, too.
+- 1 big Peruvian mango /or/ 2--3 smaller Alfonso mangoes. Mixing in \approx{}½ c. of
+  blueberries might be a nice addition, too.
+
+---
+
+[[file:../images/fruit-tart.jpg]]
