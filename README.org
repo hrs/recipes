@@ -1,0 +1,85 @@
+#+title: Recipes
+
+We're gonna store a few reasonably easy vegetarian recipes we like
+here. Git: it's not just for code!
+
+:butter:, :bee:, :cheese:, :milk_glass:, :egg: == requires butter, honey, cheese,
+milk, or eggs, respectively.
+
+Anything not so marked is either vegan or trivially veganizable.
+
+*** Main Dishes
+
+- [[./recipes/baked-mac-and-cheese.org][Baked Macaroni & Cheese]] :butter: :cheese:
+- [[./recipes/cheese-fondue.org][Cheese Fondue]] :cheese:
+- [[./recipes/chickpeas-and-tomatoes.org][Chickpeas & Tomatoes]]
+- [[./recipes/chipotle-corn-and-black-bean-stew.org][Chipotle, Corn, and Black Bean Stew]]
+- [[./recipes/cold-peanut-noodles.org][Cold Peanut "Noodles"]]
+- [[./recipes/fried-rice.org][Fried Rice]] :egg:
+- [[./recipes/hot-and-sour-soup.org][Hot and Sour Soup]]
+- [[./recipes/lentil-soup.org][Lentil Soup]]
+- [[./recipes/lentils-diavolo.org][Lentils Diavolo]]
+- [[./recipes/lo-mein.org][Lo Mein]]
+- [[./recipes/maqluba.org][Maqluba]]
+- [[./recipes/navratan-korma.org][Navratan Korma]]
+- [[./recipes/pad-thai.org][Pad Thai]]
+- [[./recipes/pancakes.org][Pancakes]] :butter: :egg:
+- [[./recipes/pasta-fresca.org][Pasta Fresca]] :cheese:
+- [[./recipes/peas-and-mushrooms.org][Peas and Mushrooms]] :butter: :milk_glass:
+- [[./recipes/pineapple-peanut-stew.org][Pineapple Peanut Stew]]
+- [[./recipes/pineapple-quinoa-stir-fry.org][Pineapple Quinoa Stir-fry]]
+- [[./recipes/pizza.org][Pizza]] :cheese:
+- [[./recipes/scallion-pancakes.org][Scallion Pancakes]]
+- [[./recipes/sichuan-braised-eggplant.org][Sichuan Braised Eggplant]]
+- [[./recipes/snap-pea-and-carrot-soba-noodles.org][Snap Pea and Carrot Soba Noodles]]
+- [[./recipes/spanakopita.org][Spanakopita]] :cheese: :egg:
+- [[./recipes/spicy-stir-fried-chickpeas.org][Spicy Stir-fried Chickpeas]]
+- [[./recipes/stuffed-shells.org][Stuffed Shells]] :cheese: :egg:
+- [[./recipes/thai-green-coconut-curry.org][Thai Green Coconut Curry]]
+- [[./recipes/tuscan-bean-soup.org][Tuscan Bean Soup]]
+- [[./recipes/vegetable-risotto.org][Vegetable Risotto]]
+- [[./recipes/veggie-chili.org][Veggie Chili]]
+- [[./recipes/lasagna.org][Veggie Lasagna]] :cheese: :egg:
+- [[./recipes/west-african-groundnut-stew.org][West African Groundnut Stew]]
+- [[./recipes/worst-soup-in-the-world.org][Worst Soup in the World]]
+
+*** Sides, Sauces, and Components
+
+- [[./recipes/bananas-foster-sauce.org][Bananas Foster Sauce]] :butter:
+- [[./recipes/braised-greens-with-butter.org][Braised Greens with Butter]] :butter:
+- [[./recipes/cold-brew-coffee.org][Cold Brew Coffee]]
+- [[./recipes/crispy-fried-tofu.org][Crispy Fried Tofu]]
+- [[./recipes/knife-cut-noodles.org][Knife-Cut Noodles]]
+- [[./recipes/mascarpone.org][Mascarpone]] :milk_glass:
+- [[./recipes/peanut-sauce.org][Peanut Dipping Sauce]]
+- [[./recipes/pickled-carrots.org][Pickled Carrots]]
+- [[./recipes/pizza-sauce.org][Pizza Sauce]]
+- [[./recipes/roasted-potatoes.org][Roasted Potatoes]]
+- [[./recipes/salsa.org][Salsa]]
+- [[./recipes/samosas.org][Samosas]]
+- [[./recipes/seitan.org][Seitan]]
+- [[./recipes/smoked-paprika-aioli.org][Smoked Paprika Aioli]] :egg:
+- [[./recipes/stir-fry-sauces.org][Stir-fry Sauces]]
+- [[./recipes/vanilla-bourbon-sauce.org][Vanilla Bourbon Sauce]] :egg:
+- [[./recipes/vegetable-broth.org][Vegetable Broth]]
+
+*** Desserts & Baked Goods
+
+- [[./recipes/apple-cider-doughnuts.org][Apple Cider Doughnuts]] :butter: :milk_glass: :egg:
+- [[./recipes/apple-crisp.org][Apple Crisp]] :butter:
+- [[./recipes/apple-sauce.org][Apple Sauce]]
+- [[./recipes/banana-bread.org][Banana Bread]]
+- [[./recipes/blueberry-muffins.org][Blueberry Muffins]] :butter: :milk_glass: :egg:
+- [[./recipes/bran-muffins.org][Bran Muffins]] :bee: :egg:
+- [[./recipes/challah.org][Challah]] :bee: :egg:
+- [[./recipes/crepes.org][Crepes]] :butter: :egg:
+- [[./recipes/dutch-baby.org][Dutch Baby]] :egg:
+- [[./recipes/french-toast-muffins.org][French Toast Muffins]] :egg:
+- [[./recipes/fruit-tart.org][Fruit Tart]] :egg:
+- [[./recipes/giant-chocolate-trifle.org][Giant Chocolate Trifle]] :egg: :milk_glass:
+- [[./recipes/mandazis.org][Mandazis]] :egg:
+- [[./recipes/peanut-butter-chocolate-pillows.org][Peanut Butter Chocolate Pillows]]
+- [[./recipes/peanut-butter-and-jelly-traybake.org][Peanut Butter & Jelly Traybake]] :egg:
+- [[./recipes/pie-crust.org][Pie Crust]]
+- [[./recipes/whipped-cream.org][Whipped Cream]] :milk_glass:
+- [[./recipes/whoopie-pies.org][Whoopie Pies]] :egg: :milk_glass:
