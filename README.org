@@ -30,6 +30,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [[./recipes/pineapple-quinoa-stir-fry.org][Pineapple Quinoa Stir-fry]]
 - [[./recipes/pizza.org][Pizza]] :cheese:
 - [[./recipes/scallion-pancakes.org][Scallion Pancakes]]
+- [[./recipes/shui-zhu-mushrooms.org][Shui Zhu Mushrooms]]
 - [[./recipes/sichuan-braised-eggplant.org][Sichuan Braised Eggplant]]
 - [[./recipes/snap-pea-and-carrot-soba-noodles.org][Snap Pea and Carrot Soba Noodles]]
 - [[./recipes/spanakopita.org][Spanakopita]] :cheese: :egg:
