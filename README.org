@@ -3,8 +3,8 @@
 We're gonna store a few reasonably easy vegetarian recipes we like
 here. Git: it's not just for code!
 
-:butter:, :bee:, :cheese:, :milk_glass:, :egg: == requires butter, honey, cheese,
-milk, or eggs, respectively.
+:butter:, :bee:, :cheese:, :milk_glass:, :egg: == requires butter, honey,
+cheese, milk, or eggs, respectively.
 
 Anything not so marked is either vegan or trivially veganizable.
 
