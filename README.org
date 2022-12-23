@@ -17,6 +17,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [[./recipes/cold-peanut-noodles.org][Cold Peanut "Noodles"]]
 - [[./recipes/fried-rice.org][Fried Rice]] :egg:
 - [[./recipes/hot-and-sour-soup.org][Hot and Sour Soup]]
+- [[./recipes/japanese-curry.org][Japanese Curry]]
 - [[./recipes/lentil-soup.org][Lentil Soup]]
 - [[./recipes/lentils-diavolo.org][Lentils Diavolo]]
 - [[./recipes/lo-mein.org][Lo Mein]]
