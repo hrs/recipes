@@ -15,7 +15,9 @@ Anything not so marked is either vegan or trivially veganizable.
 - [[./recipes/chickpeas-and-tomatoes.org][Chickpeas & Tomatoes]]
 - [[./recipes/chipotle-corn-and-black-bean-stew.org][Chipotle, Corn, and Black Bean Stew]]
 - [[./recipes/cold-peanut-noodles.org][Cold Peanut "Noodles"]]
+- [[./recipes/dal-makhani.org][Dal Makhani]] :butter: :milk_glass:
 - [[./recipes/fried-rice.org][Fried Rice]] :egg:
+- [[./recipes/gumbo.org][Gumbo]]
 - [[./recipes/hot-and-sour-soup.org][Hot and Sour Soup]]
 - [[./recipes/japanese-curry.org][Japanese Curry]]
 - [[./recipes/lentil-soup.org][Lentil Soup]]
