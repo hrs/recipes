@@ -53,6 +53,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [[./recipes/braised-greens-with-butter.org][Braised Greens with Butter]] :butter:
 - [[./recipes/cold-brew-coffee.org][Cold Brew Coffee]]
 - [[./recipes/crispy-fried-tofu.org][Crispy Fried Tofu]]
+- [[./recipes/green-smoothie.org][Green Smoothie]]
 - [[./recipes/knife-cut-noodles.org][Knife-Cut Noodles]]
 - [[./recipes/mascarpone.org][Mascarpone]] :milk_glass:
 - [[./recipes/peanut-sauce.org][Peanut Dipping Sauce]]
