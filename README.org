@@ -25,6 +25,7 @@ Anything not so marked is either vegan or trivially veganizable.
 - [[./recipes/lo-mein.org][Lo Mein]]
 - [[./recipes/maqluba.org][Maqluba]]
 - [[./recipes/navratan-korma.org][Navratan Korma]]
+- [[./recipes/overnight-oats.org][Overnight Oats]]
 - [[./recipes/pad-thai.org][Pad Thai]]
 - [[./recipes/pancakes.org][Pancakes]] :butter: :egg:
 - [[./recipes/pasta-fresca.org][Pasta Fresca]] :cheese:
